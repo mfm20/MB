@@ -3,8 +3,8 @@
   "short_name": "Mahamud Blogging",
   "start_url": "https://mahamudblogging.blogspot.com/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1a73e8",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
   "description": "We produce educational content to help you lead more fulfilling lives and leave a positive imprint in your community",
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjMaL4mCWP5vHfZZ7jDzBaAcUMKe2g0leMFdZ12b054M3hzlmZdY8z0dhlgFVeML0YDwowIJIw-Jx4jce5TCAFSodgvGw5waN3BNwwv1-YTvpVbtN9E0XeR0Q02A73KjqDBZp_jBsRYM0qVtfeC_Qy97Dj5i4yHAmakNxaX1VBBMeDahNVR5YkqWdn32A=s512' rel='apple-touch-icon",
