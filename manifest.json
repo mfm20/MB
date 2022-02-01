@@ -3,7 +3,7 @@
   "short_name": "Mahamud Blogging",
   "start_url": "https://mahamudblogging.blogspot.com/",
   "display": "standalone",
-  "background_color": "#0d0d0d",
+  "background_color": "#666666",
   "theme_color": "#0d0d0d",
   "description": "We produce educational content to help you lead more fulfilling lives and leave a positive imprint in your community",
   "icons": [{
